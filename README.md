@@ -18,13 +18,6 @@ This repository contains:
 
 ---
 
-## 📂 Project Structure
-wikipedia-rag-assistant/
-├── build_index.py # Build FAISS index from Wikipedia subset
-├── app.py # Flask app for question-answering
-├── requirements.txt # Dependencies
-└── README.md
----
 
 ## 🛠️ Setup & Usage
 
