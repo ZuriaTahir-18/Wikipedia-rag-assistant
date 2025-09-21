@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+faiss-cpu
+datasets
+sentence-transformers
+tqdm
+huggingface_hub
+pyngrok
+python-dotenv
