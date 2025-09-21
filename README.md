@@ -35,7 +35,7 @@ python app.py
 ```
 📊 Dataset Details
 
-Source: wikimedia/wikipedia on HuggingFace
+Source: wikimedia/wikipedia on Hugging Face
 
 Subset: 20231101.en (first 1,000 rows)
 
