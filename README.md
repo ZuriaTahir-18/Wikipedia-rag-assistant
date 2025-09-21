@@ -34,8 +34,7 @@ python build_index.py
 python app.py
 ```
 📊 Dataset Details
-
-Source: wikimedia/wikipedia on Hugging Face
+Source: wikimedia/wikipedia on Hugging Face → https://huggingface.co/datasets/wikimedia/wikipedia
 
 Subset: 20231101.en (first 1,000 rows)
 
