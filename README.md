@@ -18,29 +18,27 @@ This repository contains:
 
 ---
 
-
 ## 🛠️ Setup & Usage
 
-### 1️⃣ Install Dependencies
+1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 
-### 2️⃣ Build the Index
-```bash
+2️⃣ Build the Index
+
 Run build_index.py to download and preprocess data:
-
 python build_index.py
-
-### 3️⃣ Run the App
-```bash
+3️⃣ Run the App
 python app.py
 
-
-### 📊 Dataset Details
-```bash
+📊 Dataset Details
 
 Source: wikimedia/wikipedia on HuggingFace
-
 Subset: 20231101.en (first 1,000 rows)
+Storage: metadata.parquet + embeddings.npy
 
-Data is stored locally as metadata.parquet, and embeddings are in embeddings.npy
+
+
+
+```bash
+pip install -r requirements.txt
