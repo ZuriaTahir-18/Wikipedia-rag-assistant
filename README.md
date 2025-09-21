@@ -21,13 +21,12 @@ This repository contains:
 ## 🛠️ Setup & Usage
 
 1️⃣ Install Dependencies
-```bash
 pip install -r requirements.txt
 
 2️⃣ Build the Index
-
 Run build_index.py to download and preprocess data:
 python build_index.py
+
 3️⃣ Run the App
 python app.py
 
