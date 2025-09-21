@@ -1,3 +1,8 @@
+## 🎥 Demo
+
+![Demo](./demo/demo.gif)
+
+
 # 📖 Wikipedia RAG Assistant
 
 A **Retrieval-Augmented Generation (RAG)** project that lets you ask natural language questions and get short, context-aware answers from a small subset of English Wikipedia.
